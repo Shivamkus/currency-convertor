@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div
-        className="w-screen h-screen flex lg:ml-[-45%] md:ml-0 sm:ml-0 flex-wrap justify-center items-center bg-cover bg-no-repeat"
+        className="w-screen h-screen flex   flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
             backgroundImage: `url('https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?t=st=1722005103~exp=1722008703~hmac=d22aedc0f1a5bd3aa70c3e8185da19e12675b42c7fa8ff17f63af116b6d862e5&w=900')`,
         }}
